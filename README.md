@@ -1,4 +1,36 @@
-## Hi there 👋
+# Hi, I'm Praveen Kumar 👋
+
+### Software Developer | CSE Student
+
+I'm a Computer Science student interested in building real-world software,
+backend systems, cloud applications and Web3 solutions.
+
+### 🚀 What I Work With
+
+- 💻 C++ | Python | JavaScript
+- 🌐 React | Node.js | Flask
+- ☁️ AWS | Lambda | API Gateway | DynamoDB
+- 🔗 Web3 | Solidity | Smart Contracts
+- 🧠 Data Structures & Algorithms
+- 🗄️ MySQL
+
+### 🔨 Featured Projects
+
+#### 🔗 AWS Serverless URL Shortener
+Serverless URL shortener built with Flask, AWS Lambda, API Gateway,
+DynamoDB and JWT authentication.
+
+#### 🎥 VideoCodecBenchmark
+Video codec benchmarking project for analyzing encoding performance
+and quality metrics.
+
+#### ⛓️ Merix Holdings
+Blockchain/Web3 project involving Solidity and smart contracts.
+
+### 🤝 Let's Connect
+
+- 💼 LinkedIn: **[Add your LinkedIn URL](https://www.linkedin.com/in/praveen-kumar-eng/)**
+- 🐙 GitHub: [@praveenkumar12c45](https://github.com/praveenkumar12c45)
 
 <!--
 **praveenkumar12c45/praveenkumar12c45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
