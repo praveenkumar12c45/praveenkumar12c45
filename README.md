@@ -29,8 +29,7 @@ Blockchain/Web3 project involving Solidity and smart contracts.
 
 ### 🤝 Let's Connect
 
-- 💼 LinkedIn: **[Add your LinkedIn URL](https://www.linkedin.com/in/praveen-kumar-eng/)**
-- 🐙 GitHub: [@praveenkumar12c45](https://github.com/praveenkumar12c45)
+- 💼 LinkedIn: **[LinkedIn URL](https://www.linkedin.com/in/praveen-kumar-eng/)**
 
 <!--
 **praveenkumar12c45/praveenkumar12c45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
